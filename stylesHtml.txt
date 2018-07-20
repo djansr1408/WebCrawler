@@ -1,0 +1,4259 @@
+<div class="react-modal-content" style="max-height:400px;" data-reactid=".0.$=1$react-modal-overlay.$react-modal.3"><div data-reactid=".0.$=1$react-modal-overlay.$react-modal.3.0">
+        <ul class="facets_nav">
+                                <li>
+        <a href="/search/?style_exact=Pop+Rock">
+            <small class="facet_count">608,211</small>
+            Pop Rock
+            <span class="facet-bar" style="width: 3.40601075545%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=House">
+            <small class="facet_count">546,900</small>
+            House
+            <span class="facet-bar" style="width: 3.06266621642%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Punk">
+            <small class="facet_count">386,314</small>
+            Punk
+            <span class="facet-bar" style="width: 2.16337691851%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Experimental">
+            <small class="facet_count">385,982</small>
+            Experimental
+            <span class="facet-bar" style="width: 2.16151770259%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Synth-pop">
+            <small class="facet_count">380,759</small>
+            Synth-pop
+            <span class="facet-bar" style="width: 2.13226865222%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Vocal">
+            <small class="facet_count">352,273</small>
+            Vocal
+            <span class="facet-bar" style="width: 1.9727456867%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Techno">
+            <small class="facet_count">341,478</small>
+            Techno
+            <span class="facet-bar" style="width: 1.91229316923%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Disco">
+            <small class="facet_count">335,510</small>
+            Disco
+            <span class="facet-bar" style="width: 1.87887208315%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Alternative+Rock">
+            <small class="facet_count">329,813</small>
+            Alternative Rock
+            <span class="facet-bar" style="width: 1.84696861005%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soul">
+            <small class="facet_count">300,669</small>
+            Soul
+            <span class="facet-bar" style="width: 1.68376081299%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Indie+Rock">
+            <small class="facet_count">294,351</small>
+            Indie Rock
+            <span class="facet-bar" style="width: 1.64837971013%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hardcore">
+            <small class="facet_count">290,326</small>
+            Hardcore
+            <span class="facet-bar" style="width: 1.62583951719%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Electro">
+            <small class="facet_count">261,192</small>
+            Electro
+            <span class="facet-bar" style="width: 1.46268772061%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ambient">
+            <small class="facet_count">251,947</small>
+            Ambient
+            <span class="facet-bar" style="width: 1.41091527743%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+Rock">
+            <small class="facet_count">227,920</small>
+            Hard Rock
+            <span class="facet-bar" style="width: 1.27636292567%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Trance">
+            <small class="facet_count">217,558</small>
+            Trance
+            <span class="facet-bar" style="width: 1.21833522895%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Folk">
+            <small class="facet_count">212,603</small>
+            Folk
+            <span class="facet-bar" style="width: 1.19058699142%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ballad">
+            <small class="facet_count">202,721</small>
+            Ballad
+            <span class="facet-bar" style="width: 1.13524731772%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rock+%26+Roll">
+            <small class="facet_count">200,180</small>
+            Rock &amp; Roll
+            <span class="facet-bar" style="width: 1.12101759591%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Country">
+            <small class="facet_count">194,903</small>
+            Country
+            <span class="facet-bar" style="width: 1.09146614295%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Heavy+Metal">
+            <small class="facet_count">192,908</small>
+            Heavy Metal
+            <span class="facet-bar" style="width: 1.08029404732%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chanson">
+            <small class="facet_count">188,939</small>
+            Chanson
+            <span class="facet-bar" style="width: 1.05806745706%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Downtempo">
+            <small class="facet_count">186,711</small>
+            Downtempo
+            <span class="facet-bar" style="width: 1.04559055026%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Psychedelic+Rock">
+            <small class="facet_count">180,270</small>
+            Psychedelic Rock
+            <span class="facet-bar" style="width: 1.0095206415%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Classic+Rock">
+            <small class="facet_count">172,573</small>
+            Classic Rock
+            <span class="facet-bar" style="width: 0.96641707253%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Folk+Rock">
+            <small class="facet_count">171,233</small>
+            Folk Rock
+            <span class="facet-bar" style="width: 0.958913008295%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Noise">
+            <small class="facet_count">163,023</small>
+            Noise
+            <span class="facet-bar" style="width: 0.912936614737%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Funk">
+            <small class="facet_count">162,361</small>
+            Funk
+            <span class="facet-bar" style="width: 0.909229383004%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Prog+Rock">
+            <small class="facet_count">161,436</small>
+            Prog Rock
+            <span class="facet-bar" style="width: 0.904049338662%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tech+House">
+            <small class="facet_count">158,023</small>
+            Tech House
+            <span class="facet-bar" style="width: 0.884936375055%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Euro+House">
+            <small class="facet_count">147,332</small>
+            Euro House
+            <span class="facet-bar" style="width: 0.825066262567%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Schlager">
+            <small class="facet_count">145,766</small>
+            Schlager
+            <span class="facet-bar" style="width: 0.816296587499%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soundtrack">
+            <small class="facet_count">141,789</small>
+            Soundtrack
+            <span class="facet-bar" style="width: 0.794025196856%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=New+Wave">
+            <small class="facet_count">141,575</small>
+            New Wave
+            <span class="facet-bar" style="width: 0.792826786597%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Deep+House">
+            <small class="facet_count">140,791</small>
+            Deep House
+            <span class="facet-bar" style="width: 0.788436349015%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Easy+Listening">
+            <small class="facet_count">135,496</small>
+            Easy Listening
+            <span class="facet-bar" style="width: 0.758784095192%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Industrial">
+            <small class="facet_count">132,892</small>
+            Industrial
+            <span class="facet-bar" style="width: 0.744201570365%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Black+Metal">
+            <small class="facet_count">129,645</small>
+            Black Metal
+            <span class="facet-bar" style="width: 0.726018214716%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Drum+n+Bass">
+            <small class="facet_count">129,443</small>
+            Drum n Bass
+            <span class="facet-bar" style="width: 0.724887005033%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Blues+Rock">
+            <small class="facet_count">125,377</small>
+            Blues Rock
+            <span class="facet-bar" style="width: 0.702117210123%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Rhythm+%26+Blues">
+            <small class="facet_count">124,537</small>
+            Rhythm &amp; Blues
+            <span class="facet-bar" style="width: 0.697413169857%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Progressive+House">
+            <small class="facet_count">122,972</small>
+            Progressive House
+            <span class="facet-bar" style="width: 0.688649094836%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Abstract">
+            <small class="facet_count">114,994</small>
+            Abstract
+            <span class="facet-bar" style="width: 0.6439719124%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Romantic">
+            <small class="facet_count">113,859</small>
+            Romantic
+            <span class="facet-bar" style="width: 0.637615857992%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Minimal">
+            <small class="facet_count">111,904</small>
+            Minimal
+            <span class="facet-bar" style="width: 0.626667764276%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Death+Metal">
+            <small class="facet_count">111,889</small>
+            Death Metal
+            <span class="facet-bar" style="width: 0.626583763557%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Garage+Rock">
+            <small class="facet_count">107,163</small>
+            Garage Rock
+            <span class="facet-bar" style="width: 0.60011793701%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soft+Rock">
+            <small class="facet_count">104,340</small>
+            Soft Rock
+            <span class="facet-bar" style="width: 0.584309001685%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Europop">
+            <small class="facet_count">99,607</small>
+            Europop
+            <span class="facet-bar" style="width: 0.557803974802%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Classical">
+            <small class="facet_count">89,324</small>
+            Classical
+            <span class="facet-bar" style="width: 0.500218681872%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=RnB%2FSwing">
+            <small class="facet_count">89,195</small>
+            RnB/Swing
+            <span class="facet-bar" style="width: 0.499496275688%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Thrash">
+            <small class="facet_count">85,123</small>
+            Thrash
+            <span class="facet-bar" style="width: 0.476692880491%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Acoustic">
+            <small class="facet_count">84,967</small>
+            Acoustic
+            <span class="facet-bar" style="width: 0.475819273013%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dub">
+            <small class="facet_count">82,930</small>
+            Dub
+            <span class="facet-bar" style="width: 0.464411975367%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Breakbeat">
+            <small class="facet_count">82,462</small>
+            Breakbeat
+            <span class="facet-bar" style="width: 0.461791152932%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dancehall">
+            <small class="facet_count">77,088</small>
+            Dancehall
+            <span class="facet-bar" style="width: 0.431696495322%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Progressive+Trance">
+            <small class="facet_count">73,117</small>
+            Progressive Trance
+            <span class="facet-bar" style="width: 0.409458704967%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Big+Band">
+            <small class="facet_count">71,904</small>
+            Big Band
+            <span class="facet-bar" style="width: 0.40266584682%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Contemporary+Jazz">
+            <small class="facet_count">70,347</small>
+            Contemporary Jazz
+            <span class="facet-bar" style="width: 0.393946572183%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Swing">
+            <small class="facet_count">69,593</small>
+            Swing
+            <span class="facet-bar" style="width: 0.389724136039%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Country+Rock">
+            <small class="facet_count">68,582</small>
+            Country Rock
+            <span class="facet-bar" style="width: 0.384062487575%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Breaks">
+            <small class="facet_count">66,249</small>
+            Breaks
+            <span class="facet-bar" style="width: 0.370997575739%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Reggae">
+            <small class="facet_count">63,801</small>
+            Reggae
+            <span class="facet-bar" style="width: 0.357288658391%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=IDM">
+            <small class="facet_count">63,172</small>
+            IDM
+            <span class="facet-bar" style="width: 0.353766228239%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+Trance">
+            <small class="facet_count">63,099</small>
+            Hard Trance
+            <span class="facet-bar" style="width: 0.35335742474%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Drone">
+            <small class="facet_count">61,417</small>
+            Drone
+            <span class="facet-bar" style="width: 0.343938144111%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gospel">
+            <small class="facet_count">60,538</small>
+            Gospel
+            <span class="facet-bar" style="width: 0.339015701974%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Modern">
+            <small class="facet_count">59,049</small>
+            Modern
+            <span class="facet-bar" style="width: 0.330677230597%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Baroque">
+            <small class="facet_count">58,989</small>
+            Baroque
+            <span class="facet-bar" style="width: 0.330341227721%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Roots+Reggae">
+            <small class="facet_count">54,292</small>
+            Roots Reggae
+            <span class="facet-bar" style="width: 0.304037802564%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Avantgarde">
+            <small class="facet_count">54,131</small>
+            Avantgarde
+            <span class="facet-bar" style="width: 0.303136194846%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Art+Rock">
+            <small class="facet_count">53,492</small>
+            Art Rock
+            <span class="facet-bar" style="width: 0.299557764214%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Contemporary">
+            <small class="facet_count">53,275</small>
+            Contemporary
+            <span class="facet-bar" style="width: 0.298342553812%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Doom+Metal">
+            <small class="facet_count">50,592</small>
+            Doom Metal
+            <span class="facet-bar" style="width: 0.283317625199%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Fusion">
+            <small class="facet_count">50,551</small>
+            Fusion
+            <span class="facet-bar" style="width: 0.283088023233%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gangsta">
+            <small class="facet_count">50,319</small>
+            Gangsta
+            <span class="facet-bar" style="width: 0.281788812112%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pop+Rap">
+            <small class="facet_count">49,520</small>
+            Pop Rap
+            <span class="facet-bar" style="width: 0.277314373811%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jazz-Funk">
+            <small class="facet_count">48,417</small>
+            Jazz-Funk
+            <span class="facet-bar" style="width: 0.271137520937%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Leftfield">
+            <small class="facet_count">47,268</small>
+            Leftfield
+            <span class="facet-bar" style="width: 0.264703065858%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rockabilly">
+            <small class="facet_count">47,185</small>
+            Rockabilly
+            <span class="facet-bar" style="width: 0.26423826188%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Acid">
+            <small class="facet_count">47,148</small>
+            Acid
+            <span class="facet-bar" style="width: 0.264031060106%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Grindcore">
+            <small class="facet_count">46,921</small>
+            Grindcore
+            <span class="facet-bar" style="width: 0.262759849224%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hip+Hop">
+            <small class="facet_count">46,254</small>
+            Hip Hop
+            <span class="facet-bar" style="width: 0.259024617251%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+House">
+            <small class="facet_count">45,997</small>
+            Hard House
+            <span class="facet-bar" style="width: 0.257585404931%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Lo-Fi">
+            <small class="facet_count">44,193</small>
+            Lo-Fi
+            <span class="facet-bar" style="width: 0.247482918454%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dark+Ambient">
+            <small class="facet_count">44,162</small>
+            Dark Ambient
+            <span class="facet-bar" style="width: 0.247309316968%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ska">
+            <small class="facet_count">44,069</small>
+            Ska
+            <span class="facet-bar" style="width: 0.24678851251%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Beat">
+            <small class="facet_count">43,979</small>
+            Beat
+            <span class="facet-bar" style="width: 0.246284508195%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Goth+Rock">
+            <small class="facet_count">43,694</small>
+            Goth Rock
+            <span class="facet-bar" style="width: 0.244688494534%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dubstep">
+            <small class="facet_count">43,207</small>
+            Dubstep
+            <span class="facet-bar" style="width: 0.241961271188%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=African">
+            <small class="facet_count">43,025</small>
+            African
+            <span class="facet-bar" style="width: 0.240942062464%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Post+Rock">
+            <small class="facet_count">42,829</small>
+            Post Rock
+            <span class="facet-bar" style="width: 0.239844453069%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soul-Jazz">
+            <small class="facet_count">42,704</small>
+            Soul-Jazz
+            <span class="facet-bar" style="width: 0.239144447076%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Opera">
+            <small class="facet_count">42,602</small>
+            Opera
+            <span class="facet-bar" style="width: 0.238573242187%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Glam">
+            <small class="facet_count">40,665</small>
+            Glam
+            <span class="facet-bar" style="width: 0.227725949334%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Indie+Pop">
+            <small class="facet_count">40,614</small>
+            Indie Pop
+            <span class="facet-bar" style="width: 0.227440346889%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Modern+Classical">
+            <small class="facet_count">40,184</small>
+            Modern Classical
+            <span class="facet-bar" style="width: 0.225032326277%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Comedy">
+            <small class="facet_count">39,801</small>
+            Comedy
+            <span class="facet-bar" style="width: 0.222887507917%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Italo-Disco">
+            <small class="facet_count">39,032</small>
+            Italo-Disco
+            <span class="facet-bar" style="width: 0.218581071054%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Score">
+            <small class="facet_count">38,466</small>
+            Score
+            <span class="facet-bar" style="width: 0.215411443922%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Post-Punk">
+            <small class="facet_count">38,035</small>
+            Post-Punk
+            <span class="facet-bar" style="width: 0.212997823261%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Power+Pop">
+            <small class="facet_count">37,912</small>
+            Power Pop
+            <span class="facet-bar" style="width: 0.212309017365%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Trip+Hop">
+            <small class="facet_count">37,459</small>
+            Trip Hop
+            <span class="facet-bar" style="width: 0.20977219565%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jazz-Rock">
+            <small class="facet_count">36,910</small>
+            Jazz-Rock
+            <span class="facet-bar" style="width: 0.206697769333%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Spoken+Word">
+            <small class="facet_count">36,691</small>
+            Spoken Word
+            <span class="facet-bar" style="width: 0.205471358835%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Instrumental">
+            <small class="facet_count">36,554</small>
+            Instrumental
+            <span class="facet-bar" style="width: 0.204704152268%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Garage+House">
+            <small class="facet_count">36,308</small>
+            Garage House
+            <span class="facet-bar" style="width: 0.203326540475%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Free+Improvisation">
+            <small class="facet_count">35,777</small>
+            Free Improvisation
+            <span class="facet-bar" style="width: 0.200352915021%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Conscious">
+            <small class="facet_count">35,341</small>
+            Conscious
+            <span class="facet-bar" style="width: 0.197911294121%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bop">
+            <small class="facet_count">35,247</small>
+            Bop
+            <span class="facet-bar" style="width: 0.197384889615%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Theme">
+            <small class="facet_count">35,122</small>
+            Theme
+            <span class="facet-bar" style="width: 0.196684883623%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Religious">
+            <small class="facet_count">34,970</small>
+            Religious
+            <span class="facet-bar" style="width: 0.195833676336%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Electro+House">
+            <small class="facet_count">34,047</small>
+            Electro House
+            <span class="facet-bar" style="width: 0.190664832091%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Free+Jazz">
+            <small class="facet_count">32,796</small>
+            Free Jazz
+            <span class="facet-bar" style="width: 0.183659172123%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Latin+Jazz">
+            <small class="facet_count">32,189</small>
+            Latin Jazz
+            <span class="facet-bar" style="width: 0.180259943025%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=New+Age">
+            <small class="facet_count">32,028</small>
+            New Age
+            <span class="facet-bar" style="width: 0.179358335307%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Happy+Hardcore">
+            <small class="facet_count">31,906</small>
+            Happy Hardcore
+            <span class="facet-bar" style="width: 0.178675129459%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Salsa">
+            <small class="facet_count">31,397</small>
+            Salsa
+            <span class="facet-bar" style="width: 0.175824705059%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Oi">
+            <small class="facet_count">30,745</small>
+            Oi
+            <span class="facet-bar" style="width: 0.172173473805%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=EBM">
+            <small class="facet_count">30,715</small>
+            EBM
+            <span class="facet-bar" style="width: 0.172005472367%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Jungle">
+            <small class="facet_count">30,605</small>
+            Jungle
+            <span class="facet-bar" style="width: 0.171389467094%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Psy-Trance">
+            <small class="facet_count">30,434</small>
+            Psy-Trance
+            <span class="facet-bar" style="width: 0.170431858897%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Stoner+Rock">
+            <small class="facet_count">29,768</small>
+            Stoner Rock
+            <span class="facet-bar" style="width: 0.166702226971%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=UK+Garage">
+            <small class="facet_count">29,570</small>
+            UK Garage
+            <span class="facet-bar" style="width: 0.16559341748%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+Bop">
+            <small class="facet_count">29,486</small>
+            Hard Bop
+            <span class="facet-bar" style="width: 0.165123013453%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Emo">
+            <small class="facet_count">29,203</small>
+            Emo
+            <span class="facet-bar" style="width: 0.163538199887%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Symphonic+Rock">
+            <small class="facet_count">29,110</small>
+            Symphonic Rock
+            <span class="facet-bar" style="width: 0.163017395429%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Surf">
+            <small class="facet_count">28,752</small>
+            Surf
+            <span class="facet-bar" style="width: 0.161012578268%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Italodance">
+            <small class="facet_count">28,646</small>
+            Italodance
+            <span class="facet-bar" style="width: 0.160418973186%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Shoegaze">
+            <small class="facet_count">28,406</small>
+            Shoegaze
+            <span class="facet-bar" style="width: 0.159074961682%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Smooth+Jazz">
+            <small class="facet_count">28,182</small>
+            Smooth Jazz
+            <span class="facet-bar" style="width: 0.157820550944%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tribal">
+            <small class="facet_count">27,728</small>
+            Tribal
+            <span class="facet-bar" style="width: 0.155278129181%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Musical">
+            <small class="facet_count">27,527</small>
+            Musical
+            <span class="facet-bar" style="width: 0.154152519546%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Future+Jazz">
+            <small class="facet_count">27,385</small>
+            Future Jazz
+            <span class="facet-bar" style="width: 0.153357312739%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cool+Jazz">
+            <small class="facet_count">26,804</small>
+            Cool Jazz
+            <span class="facet-bar" style="width: 0.150103684888%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=MPB">
+            <small class="facet_count">26,611</small>
+            MPB
+            <span class="facet-bar" style="width: 0.149022875636%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Doo+Wop">
+            <small class="facet_count">25,745</small>
+            Doo Wop
+            <span class="facet-bar" style="width: 0.144173234123%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hardstyle">
+            <small class="facet_count">25,066</small>
+            Hardstyle
+            <span class="facet-bar" style="width: 0.140370801574%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Post+Bop">
+            <small class="facet_count">25,032</small>
+            Post Bop
+            <span class="facet-bar" style="width: 0.140180399944%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Field+Recording">
+            <small class="facet_count">24,517</small>
+            Field Recording
+            <span class="facet-bar" style="width: 0.137296375257%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Latin">
+            <small class="facet_count">24,294</small>
+            Latin
+            <span class="facet-bar" style="width: 0.136047564567%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bolero">
+            <small class="facet_count">23,428</small>
+            Bolero
+            <span class="facet-bar" style="width: 0.131197923054%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Novelty">
+            <small class="facet_count">23,210</small>
+            Novelty
+            <span class="facet-bar" style="width: 0.129977112604%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Story">
+            <small class="facet_count">22,858</small>
+            Story
+            <span class="facet-bar" style="width: 0.12800589573%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=J-pop">
+            <small class="facet_count">22,813</small>
+            J-pop
+            <span class="facet-bar" style="width: 0.127753893573%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gabber">
+            <small class="facet_count">22,768</small>
+            Gabber
+            <span class="facet-bar" style="width: 0.127501891416%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Samba">
+            <small class="facet_count">22,760</small>
+            Samba
+            <span class="facet-bar" style="width: 0.127457091033%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dance-pop">
+            <small class="facet_count">22,737</small>
+            Dance-pop
+            <span class="facet-bar" style="width: 0.12732828993%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bluegrass">
+            <small class="facet_count">22,076</small>
+            Bluegrass
+            <span class="facet-bar" style="width: 0.123626658244%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Grunge">
+            <small class="facet_count">22,008</small>
+            Grunge
+            <span class="facet-bar" style="width: 0.123245854985%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Arena+Rock">
+            <small class="facet_count">21,832</small>
+            Arena Rock
+            <span class="facet-bar" style="width: 0.122260246548%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hi+NRG">
+            <small class="facet_count">21,110</small>
+            Hi NRG
+            <span class="facet-bar" style="width: 0.118217011938%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Parody">
+            <small class="facet_count">20,952</small>
+            Parody
+            <span class="facet-bar" style="width: 0.117332204364%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Southern+Rock">
+            <small class="facet_count">20,904</small>
+            Southern Rock
+            <span class="facet-bar" style="width: 0.117063402063%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=La%C3%AFk%C3%B3">
+            <small class="facet_count">20,805</small>
+            Laïkó
+            <span class="facet-bar" style="width: 0.116508997317%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Glitch">
+            <small class="facet_count">20,616</small>
+            Glitch
+            <span class="facet-bar" style="width: 0.115450588257%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Eurodance">
+            <small class="facet_count">20,333</small>
+            Eurodance
+            <span class="facet-bar" style="width: 0.113865774691%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Celtic">
+            <small class="facet_count">20,107</small>
+            Celtic
+            <span class="facet-bar" style="width: 0.112600163857%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Darkwave">
+            <small class="facet_count">20,013</small>
+            Darkwave
+            <span class="facet-bar" style="width: 0.112073759351%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dixieland">
+            <small class="facet_count">19,383</small>
+            Dixieland
+            <span class="facet-bar" style="width: 0.108545729151%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Flamenco">
+            <small class="facet_count">19,330</small>
+            Flamenco
+            <span class="facet-bar" style="width: 0.108248926611%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Acid+House">
+            <small class="facet_count">19,033</small>
+            Acid House
+            <span class="facet-bar" style="width: 0.106585712374%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nu+Metal">
+            <small class="facet_count">19,030</small>
+            Nu Metal
+            <span class="facet-bar" style="width: 0.10656891223%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Krautrock">
+            <small class="facet_count">19,013</small>
+            Krautrock
+            <span class="facet-bar" style="width: 0.106473711415%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dub+Techno">
+            <small class="facet_count">18,707</small>
+            Dub Techno
+            <span class="facet-bar" style="width: 0.104760096746%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Radioplay">
+            <small class="facet_count">18,615</small>
+            Radioplay
+            <span class="facet-bar" style="width: 0.104244892336%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Space+Rock">
+            <small class="facet_count">18,540</small>
+            Space Rock
+            <span class="facet-bar" style="width: 0.103824888741%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cumbia">
+            <small class="facet_count">18,490</small>
+            Cumbia
+            <span class="facet-bar" style="width: 0.103544886344%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Thug+Rap">
+            <small class="facet_count">18,008</small>
+            Thug Rap
+            <span class="facet-bar" style="width: 0.100845663239%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tango">
+            <small class="facet_count">17,998</small>
+            Tango
+            <span class="facet-bar" style="width: 0.10078966276%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Speed+Metal">
+            <small class="facet_count">17,829</small>
+            Speed Metal
+            <span class="facet-bar" style="width: 0.0998432546583%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pop+Punk">
+            <small class="facet_count">17,520</small>
+            Pop Punk
+            <span class="facet-bar" style="width: 0.0981128398459%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Freestyle">
+            <small class="facet_count">17,164</small>
+            Freestyle
+            <span class="facet-bar" style="width: 0.0961192227805%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Brit+Pop">
+            <small class="facet_count">17,006</small>
+            Brit Pop
+            <span class="facet-bar" style="width: 0.0952344152066%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Acid+Jazz">
+            <small class="facet_count">16,941</small>
+            Acid Jazz
+            <span class="facet-bar" style="width: 0.0948704120907%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Power+Electronics">
+            <small class="facet_count">16,659</small>
+            Power Electronics
+            <span class="facet-bar" style="width: 0.0932911985727%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Reggae-Pop">
+            <small class="facet_count">16,568</small>
+            Reggae-Pop
+            <span class="facet-bar" style="width: 0.0927815942104%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Big+Beat">
+            <small class="facet_count">16,486</small>
+            Big Beat
+            <span class="facet-bar" style="width: 0.0923223902797%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Musique+Concr%C3%A8te">
+            <small class="facet_count">16,310</small>
+            Musique Concrète
+            <span class="facet-bar" style="width: 0.0913367818429%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tribal+House">
+            <small class="facet_count">16,149</small>
+            Tribal House
+            <span class="facet-bar" style="width: 0.0904351741251%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Bossa+Nova">
+            <small class="facet_count">16,025</small>
+            Bossa Nova
+            <span class="facet-bar" style="width: 0.089740768181%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Breakcore">
+            <small class="facet_count">15,967</small>
+            Breakcore
+            <span class="facet-bar" style="width: 0.0894159654007%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Polka">
+            <small class="facet_count">15,282</small>
+            Polka
+            <span class="facet-bar" style="width: 0.0855799325642%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mod">
+            <small class="facet_count">15,228</small>
+            Mod
+            <span class="facet-bar" style="width: 0.0852775299757%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hardcore+Hip-Hop">
+            <small class="facet_count">15,163</small>
+            Hardcore Hip-Hop
+            <span class="facet-bar" style="width: 0.0849135268598%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rumba">
+            <small class="facet_count">14,935</small>
+            Rumba
+            <span class="facet-bar" style="width: 0.0836367159303%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cha-Cha">
+            <small class="facet_count">14,612</small>
+            Cha-Cha
+            <span class="facet-bar" style="width: 0.0818279004468%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Broken+Beat">
+            <small class="facet_count">14,254</small>
+            Broken Beat
+            <span class="facet-bar" style="width: 0.0798230832856%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bass+Music">
+            <small class="facet_count">14,183</small>
+            Bass Music
+            <span class="facet-bar" style="width: 0.0794254798821%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rocksteady">
+            <small class="facet_count">13,921</small>
+            Rocksteady
+            <span class="facet-bar" style="width: 0.0779582673228%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Electric+Blues">
+            <small class="facet_count">13,863</small>
+            Electric Blues
+            <span class="facet-bar" style="width: 0.0776334645425%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Poetry">
+            <small class="facet_count">13,677</small>
+            Poetry
+            <span class="facet-bar" style="width: 0.0765918556263%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bossanova">
+            <small class="facet_count">13,482</small>
+            Bossanova
+            <span class="facet-bar" style="width: 0.0754998462787%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Metalcore">
+            <small class="facet_count">13,461</small>
+            Metalcore
+            <span class="facet-bar" style="width: 0.075382245272%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Neo-Classical">
+            <small class="facet_count">13,343</small>
+            Neo-Classical
+            <span class="facet-bar" style="width: 0.0747214396155%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Country+Blues">
+            <small class="facet_count">13,274</small>
+            Country Blues
+            <span class="facet-bar" style="width: 0.0743350363079%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Interview">
+            <small class="facet_count">13,141</small>
+            Interview
+            <span class="facet-bar" style="width: 0.0735902299324%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Neofolk">
+            <small class="facet_count">13,118</small>
+            Neofolk
+            <span class="facet-bar" style="width: 0.0734614288298%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hindustani">
+            <small class="facet_count">13,076</small>
+            Hindustani
+            <span class="facet-bar" style="width: 0.0732262268165%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Power+Metal">
+            <small class="facet_count">12,982</small>
+            Power Metal
+            <span class="facet-bar" style="width: 0.0726998223105%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Ethereal">
+            <small class="facet_count">12,639</small>
+            Ethereal
+            <span class="facet-bar" style="width: 0.0707790058683%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Math+Rock">
+            <small class="facet_count">12,399</small>
+            Math Rock
+            <span class="facet-bar" style="width: 0.0694349943636%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Audiobook">
+            <small class="facet_count">12,312</small>
+            Audiobook
+            <span class="facet-bar" style="width: 0.0689477901931%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Afrobeat">
+            <small class="facet_count">12,283</small>
+            Afrobeat
+            <span class="facet-bar" style="width: 0.0687853888029%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chiptune">
+            <small class="facet_count">12,230</small>
+            Chiptune
+            <span class="facet-bar" style="width: 0.0684885862623%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chicago+Blues">
+            <small class="facet_count">12,033</small>
+            Chicago Blues
+            <span class="facet-bar" style="width: 0.0673853768188%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Contemporary+R%26B">
+            <small class="facet_count">11,949</small>
+            Contemporary R&amp;B
+            <span class="facet-bar" style="width: 0.0669149727922%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Avant-garde+Jazz">
+            <small class="facet_count">11,888</small>
+            Avant-garde Jazz
+            <span class="facet-bar" style="width: 0.066573369868%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hip-House">
+            <small class="facet_count">11,878</small>
+            Hip-House
+            <span class="facet-bar" style="width: 0.0665173693887%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Modal">
+            <small class="facet_count">11,854</small>
+            Modal
+            <span class="facet-bar" style="width: 0.0663829682382%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Goa+Trance">
+            <small class="facet_count">11,846</small>
+            Goa Trance
+            <span class="facet-bar" style="width: 0.0663381678547%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mambo">
+            <small class="facet_count">11,723</small>
+            Mambo
+            <span class="facet-bar" style="width: 0.0656493619585%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jazzy+Hip-Hop">
+            <small class="facet_count">11,655</small>
+            Jazzy Hip-Hop
+            <span class="facet-bar" style="width: 0.0652685586989%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Lovers+Rock">
+            <small class="facet_count">11,568</small>
+            Lovers Rock
+            <span class="facet-bar" style="width: 0.0647813545284%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Calypso">
+            <small class="facet_count">11,553</small>
+            Calypso
+            <span class="facet-bar" style="width: 0.0646973538093%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Lounge">
+            <small class="facet_count">11,505</small>
+            Lounge
+            <span class="facet-bar" style="width: 0.0644285515084%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Merengue">
+            <small class="facet_count">11,124</small>
+            Merengue
+            <span class="facet-bar" style="width: 0.0622949332446%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Grime">
+            <small class="facet_count">11,033</small>
+            Grime
+            <span class="facet-bar" style="width: 0.0617853288824%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=AOR">
+            <small class="facet_count">11,013</small>
+            AOR
+            <span class="facet-bar" style="width: 0.0616733279237%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bollywood">
+            <small class="facet_count">10,681</small>
+            Bollywood
+            <span class="facet-bar" style="width: 0.0598141120088%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Progressive+Metal">
+            <small class="facet_count">10,592</small>
+            Progressive Metal
+            <span class="facet-bar" style="width: 0.0593157077425%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rhythmic+Noise">
+            <small class="facet_count">10,510</small>
+            Rhythmic Noise
+            <span class="facet-bar" style="width: 0.0588565038117%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sludge+Metal">
+            <small class="facet_count">10,486</small>
+            Sludge Metal
+            <span class="facet-bar" style="width: 0.0587221026612%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Psychedelic">
+            <small class="facet_count">10,436</small>
+            Psychedelic
+            <span class="facet-bar" style="width: 0.0584421002644%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Neo+Soul">
+            <small class="facet_count">10,423</small>
+            Neo Soul
+            <span class="facet-bar" style="width: 0.0583692996412%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ragga">
+            <small class="facet_count">10,369</small>
+            Ragga
+            <span class="facet-bar" style="width: 0.0580668970526%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Psychobilly">
+            <small class="facet_count">10,226</small>
+            Psychobilly
+            <span class="facet-bar" style="width: 0.0572660901977%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Renaissance">
+            <small class="facet_count">10,210</small>
+            Renaissance
+            <span class="facet-bar" style="width: 0.0571764894307%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Vaporwave">
+            <small class="facet_count">10,107</small>
+            Vaporwave
+            <span class="facet-bar" style="width: 0.0565996844933%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Afro-Cuban">
+            <small class="facet_count">10,011</small>
+            Afro-Cuban
+            <span class="facet-bar" style="width: 0.0560620798914%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Cut-up%2FDJ">
+            <small class="facet_count">9,954</small>
+            Cut-up/DJ
+            <span class="facet-bar" style="width: 0.055742877159%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ragtime">
+            <small class="facet_count">9,491</small>
+            Ragtime
+            <span class="facet-bar" style="width: 0.0531500549645%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Education">
+            <small class="facet_count">9,485</small>
+            Education
+            <span class="facet-bar" style="width: 0.0531164546769%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Marches">
+            <small class="facet_count">9,450</small>
+            Marches
+            <span class="facet-bar" style="width: 0.0529204529991%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ragga+HipHop">
+            <small class="facet_count">9,348</small>
+            Ragga HipHop
+            <span class="facet-bar" style="width: 0.0523492481096%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=%C3%89ntekhno">
+            <small class="facet_count">9,334</small>
+            Éntekhno
+            <span class="facet-bar" style="width: 0.0522708474385%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Boogie">
+            <small class="facet_count">9,251</small>
+            Boogie
+            <span class="facet-bar" style="width: 0.0518060434597%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Minimal+Techno">
+            <small class="facet_count">9,115</small>
+            Minimal Techno
+            <span class="facet-bar" style="width: 0.0510444369404%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Trap">
+            <small class="facet_count">8,975</small>
+            Trap
+            <span class="facet-bar" style="width: 0.0502604302293%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Volksmusik">
+            <small class="facet_count">8,826</small>
+            Volksmusik
+            <span class="facet-bar" style="width: 0.0494260230868%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Pacific">
+            <small class="facet_count">8,823</small>
+            Pacific
+            <span class="facet-bar" style="width: 0.0494092229429%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Synthwave">
+            <small class="facet_count">8,746</small>
+            Synthwave
+            <span class="facet-bar" style="width: 0.0489780192518%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Makina">
+            <small class="facet_count">8,537</small>
+            Makina
+            <span class="facet-bar" style="width: 0.0478076092331%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Speedcore">
+            <small class="facet_count">8,509</small>
+            Speedcore
+            <span class="facet-bar" style="width: 0.0476508078909%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Space-Age">
+            <small class="facet_count">8,399</small>
+            Space-Age
+            <span class="facet-bar" style="width: 0.0470348026179%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jazzdance">
+            <small class="facet_count">8,366</small>
+            Jazzdance
+            <span class="facet-bar" style="width: 0.046850001036%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Crust">
+            <small class="facet_count">8,148</small>
+            Crust
+            <span class="facet-bar" style="width: 0.0456291905859%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Berlin-School">
+            <small class="facet_count">7,983</small>
+            Berlin-School
+            <span class="facet-bar" style="width: 0.0447051826764%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Funk+Metal">
+            <small class="facet_count">7,659</small>
+            Funk Metal
+            <span class="facet-bar" style="width: 0.042890767145%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Euro-Disco">
+            <small class="facet_count">7,646</small>
+            Euro-Disco
+            <span class="facet-bar" style="width: 0.0428179665218%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Neo-Romantic">
+            <small class="facet_count">7,458</small>
+            Neo-Romantic
+            <span class="facet-bar" style="width: 0.0417651575097%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Boom+Bap">
+            <small class="facet_count">7,447</small>
+            Boom Bap
+            <span class="facet-bar" style="width: 0.0417035569824%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dialogue">
+            <small class="facet_count">7,418</small>
+            Dialogue
+            <span class="facet-bar" style="width: 0.0415411555923%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Indian+Classical">
+            <small class="facet_count">7,310</small>
+            Indian Classical
+            <span class="facet-bar" style="width: 0.0409363504152%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nursery+Rhymes">
+            <small class="facet_count">7,184</small>
+            Nursery Rhymes
+            <span class="facet-bar" style="width: 0.0402307443752%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Post-Hardcore">
+            <small class="facet_count">7,180</small>
+            Post-Hardcore
+            <span class="facet-bar" style="width: 0.0402083441834%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Medieval">
+            <small class="facet_count">7,177</small>
+            Medieval
+            <span class="facet-bar" style="width: 0.0401915440396%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gothic+Metal">
+            <small class="facet_count">7,100</small>
+            Gothic Metal
+            <span class="facet-bar" style="width: 0.0397603403485%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ranchera">
+            <small class="facet_count">7,018</small>
+            Ranchera
+            <span class="facet-bar" style="width: 0.0393011364177%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Guaguanc%C3%B3">
+            <small class="facet_count">6,965</small>
+            Guaguancó
+            <span class="facet-bar" style="width: 0.0390043338771%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Impressionist">
+            <small class="facet_count">6,932</small>
+            Impressionist
+            <span class="facet-bar" style="width: 0.0388195322952%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Afro-Cuban+Jazz">
+            <small class="facet_count">6,922</small>
+            Afro-Cuban Jazz
+            <span class="facet-bar" style="width: 0.0387635318158%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Son">
+            <small class="facet_count">6,874</small>
+            Son
+            <span class="facet-bar" style="width: 0.0384947295149%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=New+Beat">
+            <small class="facet_count">6,830</small>
+            New Beat
+            <span class="facet-bar" style="width: 0.0382483274057%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Highlife">
+            <small class="facet_count">6,761</small>
+            Highlife
+            <span class="facet-bar" style="width: 0.0378619240981%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=G-Funk">
+            <small class="facet_count">6,760</small>
+            G-Funk
+            <span class="facet-bar" style="width: 0.0378563240501%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tech+Trance">
+            <small class="facet_count">6,741</small>
+            Tech Trance
+            <span class="facet-bar" style="width: 0.0377499231393%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Eurobeat">
+            <small class="facet_count">6,597</small>
+            Eurobeat
+            <span class="facet-bar" style="width: 0.0369435162365%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Honky+Tonk">
+            <small class="facet_count">6,566</small>
+            Honky Tonk
+            <span class="facet-bar" style="width: 0.0367699147505%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Guaracha">
+            <small class="facet_count">6,525</small>
+            Guaracha
+            <span class="facet-bar" style="width: 0.0365403127851%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Political">
+            <small class="facet_count">6,521</small>
+            Political
+            <span class="facet-bar" style="width: 0.0365179125933%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Fado">
+            <small class="facet_count">6,472</small>
+            Fado
+            <span class="facet-bar" style="width: 0.0362435102444%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=New+Jack+Swing">
+            <small class="facet_count">6,375</small>
+            New Jack Swing
+            <span class="facet-bar" style="width: 0.0357003055946%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Brass+Band">
+            <small class="facet_count">6,336</small>
+            Brass Band
+            <span class="facet-bar" style="width: 0.0354819037251%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Harsh+Noise+Wall">
+            <small class="facet_count">6,318</small>
+            Harsh Noise Wall
+            <span class="facet-bar" style="width: 0.0353811028622%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soca">
+            <small class="facet_count">6,262</small>
+            Soca
+            <span class="facet-bar" style="width: 0.0350675001778%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Acid+Rock">
+            <small class="facet_count">6,249</small>
+            Acid Rock
+            <span class="facet-bar" style="width: 0.0349946995546%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Educational">
+            <small class="facet_count">6,205</small>
+            Educational
+            <span class="facet-bar" style="width: 0.0347482974454%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Delta+Blues">
+            <small class="facet_count">6,190</small>
+            Delta Blues
+            <span class="facet-bar" style="width: 0.0346642967264%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Music+Hall">
+            <small class="facet_count">6,054</small>
+            Music Hall
+            <span class="facet-bar" style="width: 0.033902690207%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Zouk">
+            <small class="facet_count">5,908</small>
+            Zouk
+            <span class="facet-bar" style="width: 0.0330850832083%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Viking+Metal">
+            <small class="facet_count">5,827</small>
+            Viking Metal
+            <span class="facet-bar" style="width: 0.0326314793255%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nordic">
+            <small class="facet_count">5,806</small>
+            Nordic
+            <span class="facet-bar" style="width: 0.0325138783188%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jumpstyle">
+            <small class="facet_count">5,755</small>
+            Jumpstyle
+            <span class="facet-bar" style="width: 0.032228275874%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Military">
+            <small class="facet_count">5,741</small>
+            Military
+            <span class="facet-bar" style="width: 0.0321498752029%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nu-Disco">
+            <small class="facet_count">5,735</small>
+            Nu-Disco
+            <span class="facet-bar" style="width: 0.0321162749153%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Piano+Blues">
+            <small class="facet_count">5,717</small>
+            Piano Blues
+            <span class="facet-bar" style="width: 0.0320154740525%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Speech">
+            <small class="facet_count">5,617</small>
+            Speech
+            <span class="facet-bar" style="width: 0.0314554692588%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Monolog">
+            <small class="facet_count">5,584</small>
+            Monolog
+            <span class="facet-bar" style="width: 0.0312706676769%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Promotional">
+            <small class="facet_count">5,556</small>
+            Promotional
+            <span class="facet-bar" style="width: 0.0311138663347%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Modern+Electric+Blues">
+            <small class="facet_count">5,424</small>
+            Modern Electric Blues
+            <span class="facet-bar" style="width: 0.0303746600071%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Soukous">
+            <small class="facet_count">5,330</small>
+            Soukous
+            <span class="facet-bar" style="width: 0.0298482555011%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Operetta">
+            <small class="facet_count">5,288</small>
+            Operetta
+            <span class="facet-bar" style="width: 0.0296130534877%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Speed+Garage">
+            <small class="facet_count">5,258</small>
+            Speed Garage
+            <span class="facet-bar" style="width: 0.0294450520496%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Melodic+Hardcore">
+            <small class="facet_count">5,139</small>
+            Melodic Hardcore
+            <span class="facet-bar" style="width: 0.0287786463452%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Horrorcore">
+            <small class="facet_count">4,854</small>
+            Horrorcore
+            <span class="facet-bar" style="width: 0.0271826326833%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Folk+Metal">
+            <small class="facet_count">4,642</small>
+            Folk Metal
+            <span class="facet-bar" style="width: 0.0259954225208%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+Techno">
+            <small class="facet_count">4,557</small>
+            Hard Techno
+            <span class="facet-bar" style="width: 0.0255194184462%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Post-Modern">
+            <small class="facet_count">4,451</small>
+            Post-Modern
+            <span class="facet-bar" style="width: 0.024925813365%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ghetto">
+            <small class="facet_count">4,401</small>
+            Ghetto
+            <span class="facet-bar" style="width: 0.0246458109681%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Melodic+Death+Metal">
+            <small class="facet_count">4,387</small>
+            Melodic Death Metal
+            <span class="facet-bar" style="width: 0.024567410297%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=P.Funk">
+            <small class="facet_count">4,383</small>
+            P.Funk
+            <span class="facet-bar" style="width: 0.0245450101053%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cubano">
+            <small class="facet_count">4,380</small>
+            Cubano
+            <span class="facet-bar" style="width: 0.0245282099615%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gypsy+Jazz">
+            <small class="facet_count">4,371</small>
+            Gypsy Jazz
+            <span class="facet-bar" style="width: 0.02447780953%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Special+Effects">
+            <small class="facet_count">4,352</small>
+            Special Effects
+            <span class="facet-bar" style="width: 0.0243714086193%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Illbient">
+            <small class="facet_count">4,338</small>
+            Illbient
+            <span class="facet-bar" style="width: 0.0242930079481%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Boogaloo">
+            <small class="facet_count">4,185</small>
+            Boogaloo
+            <span class="facet-bar" style="width: 0.0234362006139%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Romani">
+            <small class="facet_count">4,141</small>
+            Romani
+            <span class="facet-bar" style="width: 0.0231897985047%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Harmonica+Blues">
+            <small class="facet_count">4,133</small>
+            Harmonica Blues
+            <span class="facet-bar" style="width: 0.0231449981212%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Canzone+Napoletana">
+            <small class="facet_count">4,078</small>
+            Canzone Napoletana
+            <span class="facet-bar" style="width: 0.0228369954847%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Cajun">
+            <small class="facet_count">3,932</small>
+            Cajun
+            <span class="facet-bar" style="width: 0.022019388486%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Kay%C5%8Dkyoku">
+            <small class="facet_count">3,876</small>
+            Kayōkyoku
+            <span class="facet-bar" style="width: 0.0217057858015%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=No+Wave">
+            <small class="facet_count">3,865</small>
+            No Wave
+            <span class="facet-bar" style="width: 0.0216441852742%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Texas+Blues">
+            <small class="facet_count">3,865</small>
+            Texas Blues
+            <span class="facet-bar" style="width: 0.0216441852742%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mariachi">
+            <small class="facet_count">3,856</small>
+            Mariachi
+            <span class="facet-bar" style="width: 0.0215937848428%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Light+Music">
+            <small class="facet_count">3,685</small>
+            Light Music
+            <span class="facet-bar" style="width: 0.0206361766457%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Descarga">
+            <small class="facet_count">3,637</small>
+            Descarga
+            <span class="facet-bar" style="width: 0.0203673743447%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chillwave">
+            <small class="facet_count">3,585</small>
+            Chillwave
+            <span class="facet-bar" style="width: 0.020076171852%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Therapy">
+            <small class="facet_count">3,520</small>
+            Therapy
+            <span class="facet-bar" style="width: 0.0197121687362%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Deep+Techno">
+            <small class="facet_count">3,419</small>
+            Deep Techno
+            <span class="facet-bar" style="width: 0.0191465638946%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Louisiana+Blues">
+            <small class="facet_count">3,377</small>
+            Louisiana Blues
+            <span class="facet-bar" style="width: 0.0189113618813%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pub+Rock">
+            <small class="facet_count">3,325</small>
+            Pub Rock
+            <span class="facet-bar" style="width: 0.0186201593886%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Italo+House">
+            <small class="facet_count">3,309</small>
+            Italo House
+            <span class="facet-bar" style="width: 0.0185305586216%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jump+Blues">
+            <small class="facet_count">3,204</small>
+            Jump Blues
+            <span class="facet-bar" style="width: 0.0179425535883%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Reggaeton">
+            <small class="facet_count">3,122</small>
+            Reggaeton
+            <span class="facet-bar" style="width: 0.0174833496575%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rebetiko">
+            <small class="facet_count">3,119</small>
+            Rebetiko
+            <span class="facet-bar" style="width: 0.0174665495137%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=DJ+Battle+Tool">
+            <small class="facet_count">3,059</small>
+            DJ Battle Tool
+            <span class="facet-bar" style="width: 0.0171305466375%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Forr%C3%B3">
+            <small class="facet_count">3,045</small>
+            Forró
+            <span class="facet-bar" style="width: 0.0170521459664%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pachanga">
+            <small class="facet_count">2,965</small>
+            Pachanga
+            <span class="facet-bar" style="width: 0.0166041421315%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Witch+House">
+            <small class="facet_count">2,943</small>
+            Witch House
+            <span class="facet-bar" style="width: 0.0164809410769%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Screw">
+            <small class="facet_count">2,941</small>
+            Screw
+            <span class="facet-bar" style="width: 0.016469740981%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Deathcore">
+            <small class="facet_count">2,904</small>
+            Deathcore
+            <span class="facet-bar" style="width: 0.0162625392073%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Choral">
+            <small class="facet_count">2,901</small>
+            Choral
+            <span class="facet-bar" style="width: 0.0162457390635%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sound+Collage">
+            <small class="facet_count">2,779</small>
+            Sound Collage
+            <span class="facet-bar" style="width: 0.0155625332153%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Swingbeat">
+            <small class="facet_count">2,769</small>
+            Swingbeat
+            <span class="facet-bar" style="width: 0.0155065327359%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Norte%C3%B1o">
+            <small class="facet_count">2,729</small>
+            Norteño
+            <span class="facet-bar" style="width: 0.0152825308185%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Crunk">
+            <small class="facet_count">2,717</small>
+            Crunk
+            <span class="facet-bar" style="width: 0.0152153302432%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Beguine">
+            <small class="facet_count">2,643</small>
+            Beguine
+            <span class="facet-bar" style="width: 0.0148009266959%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=S%C3%A9ga">
+            <small class="facet_count">2,599</small>
+            Séga
+            <span class="facet-bar" style="width: 0.0145545245867%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Juke">
+            <small class="facet_count">2,576</small>
+            Juke
+            <span class="facet-bar" style="width: 0.0144257234842%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Hands+Up">
+            <small class="facet_count">2,500</small>
+            Hands Up
+            <span class="facet-bar" style="width: 0.014000119841%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bounce">
+            <small class="facet_count">2,444</small>
+            Bounce
+            <span class="facet-bar" style="width: 0.0136865171566%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Deathrock">
+            <small class="facet_count">2,423</small>
+            Deathrock
+            <span class="facet-bar" style="width: 0.0135689161499%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Charanga">
+            <small class="facet_count">2,419</small>
+            Charanga
+            <span class="facet-bar" style="width: 0.0135465159582%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nueva+Cancion">
+            <small class="facet_count">2,404</small>
+            Nueva Cancion
+            <span class="facet-bar" style="width: 0.0134625152391%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Free+Funk">
+            <small class="facet_count">2,403</small>
+            Free Funk
+            <span class="facet-bar" style="width: 0.0134569151912%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Donk">
+            <small class="facet_count">2,340</small>
+            Donk
+            <span class="facet-bar" style="width: 0.0131041121712%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Goregrind">
+            <small class="facet_count">2,339</small>
+            Goregrind
+            <span class="facet-bar" style="width: 0.0130985121233%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bubblegum">
+            <small class="facet_count">2,293</small>
+            Bubblegum
+            <span class="facet-bar" style="width: 0.0128409099182%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Boogie+Woogie">
+            <small class="facet_count">2,244</small>
+            Boogie Woogie
+            <span class="facet-bar" style="width: 0.0125665075693%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Klezmer">
+            <small class="facet_count">2,234</small>
+            Klezmer
+            <span class="facet-bar" style="width: 0.0125105070899%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Technical">
+            <small class="facet_count">2,226</small>
+            Technical
+            <span class="facet-bar" style="width: 0.0124657067064%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Corrido">
+            <small class="facet_count">2,190</small>
+            Corrido
+            <span class="facet-bar" style="width: 0.0122641049807%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sermon">
+            <small class="facet_count">2,180</small>
+            Sermon
+            <span class="facet-bar" style="width: 0.0122081045014%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Coldwave">
+            <small class="facet_count">2,156</small>
+            Coldwave
+            <span class="facet-bar" style="width: 0.0120737033509%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hillbilly">
+            <small class="facet_count">2,111</small>
+            Hillbilly
+            <span class="facet-bar" style="width: 0.0118217011938%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Compas">
+            <small class="facet_count">2,104</small>
+            Compas
+            <span class="facet-bar" style="width: 0.0117825008582%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bassline">
+            <small class="facet_count">2,068</small>
+            Bassline
+            <span class="facet-bar" style="width: 0.0115808991325%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Min%27y%C5%8D">
+            <small class="facet_count">2,068</small>
+            Min'yō
+            <span class="facet-bar" style="width: 0.0115808991325%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bayou+Funk">
+            <small class="facet_count">2,060</small>
+            Bayou Funk
+            <span class="facet-bar" style="width: 0.011536098749%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Vallenato">
+            <small class="facet_count">2,047</small>
+            Vallenato
+            <span class="facet-bar" style="width: 0.0114632981258%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Aboriginal">
+            <small class="facet_count">2,045</small>
+            Aboriginal
+            <span class="facet-bar" style="width: 0.01145209803%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dungeon+Synth">
+            <small class="facet_count">2,028</small>
+            Dungeon Synth
+            <span class="facet-bar" style="width: 0.011356897215%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Son+Montuno">
+            <small class="facet_count">2,006</small>
+            Son Montuno
+            <span class="facet-bar" style="width: 0.0112336961604%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=N%C3%A9pzene">
+            <small class="facet_count">2,004</small>
+            Népzene
+            <span class="facet-bar" style="width: 0.0112224960646%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sound+Art">
+            <small class="facet_count">1,984</small>
+            Sound Art
+            <span class="facet-bar" style="width: 0.0111104951058%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Enka">
+            <small class="facet_count">1,963</small>
+            Enka
+            <span class="facet-bar" style="width: 0.0109928940992%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Guajira">
+            <small class="facet_count">1,952</small>
+            Guajira
+            <span class="facet-bar" style="width: 0.0109312935719%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Copla">
+            <small class="facet_count">1,925</small>
+            Copla
+            <span class="facet-bar" style="width: 0.0107800922776%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ra%C3%AF">
+            <small class="facet_count">1,916</small>
+            Raï
+            <span class="facet-bar" style="width: 0.0107296918462%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Zydeco">
+            <small class="facet_count">1,869</small>
+            Zydeco
+            <span class="facet-bar" style="width: 0.0104664895932%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tejano">
+            <small class="facet_count">1,815</small>
+            Tejano
+            <span class="facet-bar" style="width: 0.0101640870046%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Public+Broadcast">
+            <small class="facet_count">1,772</small>
+            Public Broadcast
+            <span class="facet-bar" style="width: 0.00992328494332%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Porro">
+            <small class="facet_count">1,759</small>
+            Porro
+            <span class="facet-bar" style="width: 0.00985048432015%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Movie+Effects">
+            <small class="facet_count">1,754</small>
+            Movie Effects
+            <span class="facet-bar" style="width: 0.00982248408046%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Disco+Polo">
+            <small class="facet_count">1,746</small>
+            Disco Polo
+            <span class="facet-bar" style="width: 0.00977768369697%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Electroclash">
+            <small class="facet_count">1,738</small>
+            Electroclash
+            <span class="facet-bar" style="width: 0.00973288331348%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Steel+Band">
+            <small class="facet_count">1,665</small>
+            Steel Band
+            <span class="facet-bar" style="width: 0.00932407981412%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Batucada">
+            <small class="facet_count">1,662</small>
+            Batucada
+            <span class="facet-bar" style="width: 0.00930727967031%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chinese+Classical">
+            <small class="facet_count">1,617</small>
+            Chinese Classical
+            <span class="facet-bar" style="width: 0.00905527751318%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Luk+Thung">
+            <small class="facet_count">1,611</small>
+            Luk Thung
+            <span class="facet-bar" style="width: 0.00902167722556%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Tropical+House">
+            <small class="facet_count">1,607</small>
+            Tropical House
+            <span class="facet-bar" style="width: 0.00899927703381%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Skiffle">
+            <small class="facet_count">1,533</small>
+            Skiffle
+            <span class="facet-bar" style="width: 0.00858487348652%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Early">
+            <small class="facet_count">1,422</small>
+            Early
+            <span class="facet-bar" style="width: 0.00796326816558%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Danzon">
+            <small class="facet_count">1,416</small>
+            Danzon
+            <span class="facet-bar" style="width: 0.00792966787796%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Western+Swing">
+            <small class="facet_count">1,415</small>
+            Western Swing
+            <span class="facet-bar" style="width: 0.00792406783002%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Karaoke">
+            <small class="facet_count">1,397</small>
+            Karaoke
+            <span class="facet-bar" style="width: 0.00782326696717%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Britcore">
+            <small class="facet_count">1,379</small>
+            Britcore
+            <span class="facet-bar" style="width: 0.00772246610431%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Turntablism">
+            <small class="facet_count">1,377</small>
+            Turntablism
+            <span class="facet-bar" style="width: 0.00771126600844%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bachata">
+            <small class="facet_count">1,336</small>
+            Bachata
+            <span class="facet-bar" style="width: 0.00748166404304%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Miami+Bass">
+            <small class="facet_count">1,332</small>
+            Miami Bass
+            <span class="facet-bar" style="width: 0.0074592638513%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Quechua">
+            <small class="facet_count">1,310</small>
+            Quechua
+            <span class="facet-bar" style="width: 0.0073360627967%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pipe+%26+Drum">
+            <small class="facet_count">1,290</small>
+            Pipe &amp; Drum
+            <span class="facet-bar" style="width: 0.00722406183797%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Swamp+Pop">
+            <small class="facet_count">1,241</small>
+            Swamp Pop
+            <span class="facet-bar" style="width: 0.00694965948909%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gamelan">
+            <small class="facet_count">1,220</small>
+            Gamelan
+            <span class="facet-bar" style="width: 0.00683205848242%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cloud+Rap">
+            <small class="facet_count">1,211</small>
+            Cloud Rap
+            <span class="facet-bar" style="width: 0.00678165805099%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Andalusian+Classical">
+            <small class="facet_count">1,194</small>
+            Andalusian Classical
+            <span class="facet-bar" style="width: 0.00668645723607%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Lambada">
+            <small class="facet_count">1,192</small>
+            Lambada
+            <span class="facet-bar" style="width: 0.0066752571402%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Go-Go">
+            <small class="facet_count">1,190</small>
+            Go-Go
+            <span class="facet-bar" style="width: 0.00666405704433%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Schranz">
+            <small class="facet_count">1,170</small>
+            Schranz
+            <span class="facet-bar" style="width: 0.0065520560856%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Conjunto">
+            <small class="facet_count">1,123</small>
+            Conjunto
+            <span class="facet-bar" style="width: 0.00628885383259%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Doomcore">
+            <small class="facet_count">1,118</small>
+            Doomcore
+            <span class="facet-bar" style="width: 0.00626085359291%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bhangra">
+            <small class="facet_count">1,101</small>
+            Bhangra
+            <span class="facet-bar" style="width: 0.00616565277799%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=J-Core">
+            <small class="facet_count">1,041</small>
+            J-Core
+            <span class="facet-bar" style="width: 0.0058296499018%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Plena">
+            <small class="facet_count">1,017</small>
+            Plena
+            <span class="facet-bar" style="width: 0.00569524875133%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Progressive+Breaks">
+            <small class="facet_count">1,003</small>
+            Progressive Breaks
+            <span class="facet-bar" style="width: 0.00561684808022%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ax%C3%A9">
+            <small class="facet_count">1,001</small>
+            Axé
+            <span class="facet-bar" style="width: 0.00560564798435%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nueva+Trova">
+            <small class="facet_count">929</small>
+            Nueva Trova
+            <span class="facet-bar" style="width: 0.00520244453293%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=East+Coast+Blues">
+            <small class="facet_count">924</small>
+            East Coast Blues
+            <span class="facet-bar" style="width: 0.00517444429324%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Kaseko">
+            <small class="facet_count">917</small>
+            Kaseko
+            <span class="facet-bar" style="width: 0.00513524395769%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Catalan+Music">
+            <small class="facet_count">914</small>
+            Catalan Music
+            <span class="facet-bar" style="width: 0.00511844381388%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sound+Poetry">
+            <small class="facet_count">912</small>
+            Sound Poetry
+            <span class="facet-bar" style="width: 0.00510724371801%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ghetto+House">
+            <small class="facet_count">871</small>
+            Ghetto House
+            <span class="facet-bar" style="width: 0.00487764175261%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Funeral+Doom+Metal">
+            <small class="facet_count">869</small>
+            Funeral Doom Metal
+            <span class="facet-bar" style="width: 0.00486644165674%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Persian+Classical">
+            <small class="facet_count">856</small>
+            Persian Classical
+            <span class="facet-bar" style="width: 0.00479364103357%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sea+Shanties">
+            <small class="facet_count">856</small>
+            Sea Shanties
+            <span class="facet-bar" style="width: 0.00479364103357%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ottoman+Classical">
+            <small class="facet_count">852</small>
+            Ottoman Classical
+            <span class="facet-bar" style="width: 0.00477124084182%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dub+Poetry">
+            <small class="facet_count">848</small>
+            Dub Poetry
+            <span class="facet-bar" style="width: 0.00474884065008%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Public+Service+Announcement">
+            <small class="facet_count">807</small>
+            Public Service Announcement
+            <span class="facet-bar" style="width: 0.00451923868468%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Beatdown">
+            <small class="facet_count">787</small>
+            Beatdown
+            <span class="facet-bar" style="width: 0.00440723772595%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Hiplife">
+            <small class="facet_count">787</small>
+            Hiplife
+            <span class="facet-bar" style="width: 0.00440723772595%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=K-pop">
+            <small class="facet_count">769</small>
+            K-pop
+            <span class="facet-bar" style="width: 0.0043064368631%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hyphy">
+            <small class="facet_count">758</small>
+            Hyphy
+            <span class="facet-bar" style="width: 0.0042448363358%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Phleng+Phuea+Chiwit">
+            <small class="facet_count">746</small>
+            Phleng Phuea Chiwit
+            <span class="facet-bar" style="width: 0.00417763576056%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Twelve-tone">
+            <small class="facet_count">742</small>
+            Twelve-tone
+            <span class="facet-bar" style="width: 0.00415523556882%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Reggae+Gospel">
+            <small class="facet_count">737</small>
+            Reggae Gospel
+            <span class="facet-bar" style="width: 0.00412723532913%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Trova">
+            <small class="facet_count">734</small>
+            Trova
+            <span class="facet-bar" style="width: 0.00411043518533%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Barbershop">
+            <small class="facet_count">732</small>
+            Barbershop
+            <span class="facet-bar" style="width: 0.00409923508945%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Basque+Music">
+            <small class="facet_count">711</small>
+            Basque Music
+            <span class="facet-bar" style="width: 0.00398163408279%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gogo">
+            <small class="facet_count">666</small>
+            Gogo
+            <span class="facet-bar" style="width: 0.00372963192565%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Mento">
+            <small class="facet_count">645</small>
+            Mento
+            <span class="facet-bar" style="width: 0.00361203091898%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Memphis+Blues">
+            <small class="facet_count">616</small>
+            Memphis Blues
+            <span class="facet-bar" style="width: 0.00344962952883%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cape+Jazz">
+            <small class="facet_count">585</small>
+            Cape Jazz
+            <span class="facet-bar" style="width: 0.0032760280428%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pasodoble">
+            <small class="facet_count">566</small>
+            Pasodoble
+            <span class="facet-bar" style="width: 0.00316962713201%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Kwaito">
+            <small class="facet_count">545</small>
+            Kwaito
+            <span class="facet-bar" style="width: 0.00305202612534%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Piedmont+Blues">
+            <small class="facet_count">544</small>
+            Piedmont Blues
+            <span class="facet-bar" style="width: 0.00304642607741%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Marimba">
+            <small class="facet_count">536</small>
+            Marimba
+            <span class="facet-bar" style="width: 0.00300162569392%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Minneapolis+Sound">
+            <small class="facet_count">528</small>
+            Minneapolis Sound
+            <span class="facet-bar" style="width: 0.00295682531042%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mizrahi">
+            <small class="facet_count">509</small>
+            Mizrahi
+            <span class="facet-bar" style="width: 0.00285042439963%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jibaro">
+            <small class="facet_count">505</small>
+            Jibaro
+            <span class="facet-bar" style="width: 0.00282802420789%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=M%C3%BAsica+Criolla">
+            <small class="facet_count">494</small>
+            Música Criolla
+            <span class="facet-bar" style="width: 0.00276642368059%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Overtone+Singing">
+            <small class="facet_count">492</small>
+            Overtone Singing
+            <span class="facet-bar" style="width: 0.00275522358471%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Skweee">
+            <small class="facet_count">492</small>
+            Skweee
+            <span class="facet-bar" style="width: 0.00275522358471%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Guarania">
+            <small class="facet_count">489</small>
+            Guarania
+            <span class="facet-bar" style="width: 0.0027384234409%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Griot">
+            <small class="facet_count">474</small>
+            Griot
+            <span class="facet-bar" style="width: 0.00265442272186%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Carnatic">
+            <small class="facet_count">471</small>
+            Carnatic
+            <span class="facet-bar" style="width: 0.00263762257805%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Noisecore">
+            <small class="facet_count">462</small>
+            Noisecore
+            <span class="facet-bar" style="width: 0.00258722214662%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Timba">
+            <small class="facet_count">430</small>
+            Timba
+            <span class="facet-bar" style="width: 0.00240802061266%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Luk+Krung">
+            <small class="facet_count">429</small>
+            Luk Krung
+            <span class="facet-bar" style="width: 0.00240242056472%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ghettotech">
+            <small class="facet_count">405</small>
+            Ghettotech
+            <span class="facet-bar" style="width: 0.00226801941425%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Sephardic">
+            <small class="facet_count">397</small>
+            Sephardic
+            <span class="facet-bar" style="width: 0.00222321903075%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Favela+Funk">
+            <small class="facet_count">390</small>
+            Favela Funk
+            <span class="facet-bar" style="width: 0.0021840186952%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Post-Metal">
+            <small class="facet_count">383</small>
+            Post-Metal
+            <span class="facet-bar" style="width: 0.00214481835965%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Baltimore+Club">
+            <small class="facet_count">380</small>
+            Baltimore Club
+            <span class="facet-bar" style="width: 0.00212801821584%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Serial">
+            <small class="facet_count">367</small>
+            Serial
+            <span class="facet-bar" style="width: 0.00205521759266%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Joropo">
+            <small class="facet_count">359</small>
+            Joropo
+            <span class="facet-bar" style="width: 0.00201041720917%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chamam%C3%A9">
+            <small class="facet_count">356</small>
+            Chamamé
+            <span class="facet-bar" style="width: 0.00199361706536%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Jota">
+            <small class="facet_count">356</small>
+            Jota
+            <span class="facet-bar" style="width: 0.00199361706536%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hard+Beat">
+            <small class="facet_count">349</small>
+            Hard Beat
+            <span class="facet-bar" style="width: 0.00195441672981%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Neo+Trance">
+            <small class="facet_count">334</small>
+            Neo Trance
+            <span class="facet-bar" style="width: 0.00187041601076%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Beatbox">
+            <small class="facet_count">327</small>
+            Beatbox
+            <span class="facet-bar" style="width: 0.00183121567521%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cuatro">
+            <small class="facet_count">309</small>
+            Cuatro
+            <span class="facet-bar" style="width: 0.00173041481235%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mugham">
+            <small class="facet_count">308</small>
+            Mugham
+            <span class="facet-bar" style="width: 0.00172481476441%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=S%C3%A1mi+Music">
+            <small class="facet_count">285</small>
+            Sámi Music
+            <span class="facet-bar" style="width: 0.00159601366188%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Gagaku">
+            <small class="facet_count">281</small>
+            Gagaku
+            <span class="facet-bar" style="width: 0.00157361347013%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Sonero">
+            <small class="facet_count">261</small>
+            Sonero
+            <span class="facet-bar" style="width: 0.0014616125114%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Maloya">
+            <small class="facet_count">260</small>
+            Maloya
+            <span class="facet-bar" style="width: 0.00145601246347%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Mbalax">
+            <small class="facet_count">254</small>
+            Mbalax
+            <span class="facet-bar" style="width: 0.00142241217585%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chutney">
+            <small class="facet_count">252</small>
+            Chutney
+            <span class="facet-bar" style="width: 0.00141121207998%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Junkanoo">
+            <small class="facet_count">246</small>
+            Junkanoo
+            <span class="facet-bar" style="width: 0.00137761179236%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=Mouth+Music">
+            <small class="facet_count">242</small>
+            Mouth Music
+            <span class="facet-bar" style="width: 0.00135521160061%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Thai+Classical">
+            <small class="facet_count">241</small>
+            Thai Classical
+            <span class="facet-bar" style="width: 0.00134961155267%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Choro">
+            <small class="facet_count">237</small>
+            Choro
+            <span class="facet-bar" style="width: 0.00132721136093%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Hawaiian">
+            <small class="facet_count">220</small>
+            Hawaiian
+            <span class="facet-bar" style="width: 0.00123201054601%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Funkot">
+            <small class="facet_count">205</small>
+            Funkot
+            <span class="facet-bar" style="width: 0.00114800982696%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Keroncong">
+            <small class="facet_count">199</small>
+            Keroncong
+            <span class="facet-bar" style="width: 0.00111440953935%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Funana%CC%81">
+            <small class="facet_count">186</small>
+            Funaná
+            <span class="facet-bar" style="width: 0.00104160891617%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rune+Singing">
+            <small class="facet_count">165</small>
+            Rune Singing
+            <span class="facet-bar" style="width: 0.000924007909508%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dream+Pop">
+            <small class="facet_count">161</small>
+            Dream Pop
+            <span class="facet-bar" style="width: 0.000901607717762%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Break-In">
+            <small class="facet_count">159</small>
+            Break-In
+            <span class="facet-bar" style="width: 0.000890407621889%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Champeta">
+            <small class="facet_count">159</small>
+            Champeta
+            <span class="facet-bar" style="width: 0.000890407621889%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Philippine+Classical">
+            <small class="facet_count">158</small>
+            Philippine Classical
+            <span class="facet-bar" style="width: 0.000884807573953%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Depressive+Black+Metal">
+            <small class="facet_count">144</small>
+            Depressive Black Metal
+            <span class="facet-bar" style="width: 0.000806406902843%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Chacarera">
+            <small class="facet_count">122</small>
+            Chacarera
+            <span class="facet-bar" style="width: 0.000683205848242%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Kizomba">
+            <small class="facet_count">117</small>
+            Kizomba
+            <span class="facet-bar" style="width: 0.00065520560856%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Klasik">
+            <small class="facet_count">113</small>
+            Klasik
+            <span class="facet-bar" style="width: 0.000632805416814%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Rapso">
+            <small class="facet_count">112</small>
+            Rapso
+            <span class="facet-bar" style="width: 0.000627205368878%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Ballroom">
+            <small class="facet_count">103</small>
+            Ballroom
+            <span class="facet-bar" style="width: 0.00057680493745%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Power+Violence">
+            <small class="facet_count">102</small>
+            Power Violence
+            <span class="facet-bar" style="width: 0.000571204889514%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bubbling">
+            <small class="facet_count">98</small>
+            Bubbling
+            <span class="facet-bar" style="width: 0.000548804697768%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Rock+Opera">
+            <small class="facet_count">98</small>
+            Rock Opera
+            <span class="facet-bar" style="width: 0.000548804697768%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Korean+Court+Music">
+            <small class="facet_count">97</small>
+            Korean Court Music
+            <span class="facet-bar" style="width: 0.000543204649832%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Salegy">
+            <small class="facet_count">94</small>
+            Salegy
+            <span class="facet-bar" style="width: 0.000526404506023%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Cambodian+Classical">
+            <small class="facet_count">89</small>
+            Cambodian Classical
+            <span class="facet-bar" style="width: 0.000498404266341%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Zamba">
+            <small class="facet_count">84</small>
+            Zamba
+            <span class="facet-bar" style="width: 0.000470404026658%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Lao+Music">
+            <small class="facet_count">83</small>
+            Lao Music
+            <span class="facet-bar" style="width: 0.000464803978722%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bangladeshi+Classical">
+            <small class="facet_count">68</small>
+            Bangladeshi Classical
+            <span class="facet-bar" style="width: 0.000380803259676%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=UK+Funky">
+            <small class="facet_count">68</small>
+            UK Funky
+            <span class="facet-bar" style="width: 0.000380803259676%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Bongo+Flava">
+            <small class="facet_count">65</small>
+            Bongo Flava
+            <span class="facet-bar" style="width: 0.000364003115867%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Candombe">
+            <small class="facet_count">59</small>
+            Candombe
+            <span class="facet-bar" style="width: 0.000330402828248%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav last">
+                                                <li>
+        <a href="/search/?style_exact=N%C3%A9o+Kyma">
+            <small class="facet_count">56</small>
+            Néo Kyma
+            <span class="facet-bar" style="width: 0.000313602684439%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Liscio">
+            <small class="facet_count">55</small>
+            Liscio
+            <span class="facet-bar" style="width: 0.000308002636503%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Musette">
+            <small class="facet_count">46</small>
+            Musette
+            <span class="facet-bar" style="width: 0.000257602205075%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Nitzhonot">
+            <small class="facet_count">45</small>
+            Nitzhonot
+            <span class="facet-bar" style="width: 0.000252002157138%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Piobaireachd">
+            <small class="facet_count">45</small>
+            Piobaireachd
+            <span class="facet-bar" style="width: 0.000252002157138%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Appalachian+Music">
+            <small class="facet_count">43</small>
+            Appalachian Music
+            <span class="facet-bar" style="width: 0.000240802061266%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Spaza">
+            <small class="facet_count">40</small>
+            Spaza
+            <span class="facet-bar" style="width: 0.000224001917456%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Motswako">
+            <small class="facet_count">36</small>
+            Motswako
+            <span class="facet-bar" style="width: 0.000201601725711%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Pornogrind">
+            <small class="facet_count">33</small>
+            Pornogrind
+            <span class="facet-bar" style="width: 0.000184801581902%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Dangdut">
+            <small class="facet_count">32</small>
+            Dangdut
+            <span class="facet-bar" style="width: 0.000179201533965%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                                    <hr>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?style_exact=Zemer+Ivri">
+            <small class="facet_count">32</small>
+            Zemer Ivri
+            <span class="facet-bar" style="width: 0.000179201533965%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Occitan">
+            <small class="facet_count">28</small>
+            Occitan
+            <span class="facet-bar" style="width: 0.000156801342219%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Yemenite+Jewish">
+            <small class="facet_count">25</small>
+            Yemenite Jewish
+            <span class="facet-bar" style="width: 0.00014000119841%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Azonto">
+            <small class="facet_count">18</small>
+            Azonto
+            <span class="facet-bar" style="width: 0.000100800862855%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Waiata">
+            <small class="facet_count">6</small>
+            Waiata
+            <span class="facet-bar" style="width: 3.36002876185e-05%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=NDW">
+            <small class="facet_count">5</small>
+            NDW
+            <span class="facet-bar" style="width: 2.80002396821e-05%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?style_exact=Progressive+Bluegrass">
+            <small class="facet_count">1</small>
+            Progressive Bluegrass
+            <span class="facet-bar" style="width: 5.60004793641e-06%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+    </div></div>

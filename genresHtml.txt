@@ -1,0 +1,126 @@
+<div class="react-modal-content" style="max-height:400px;" data-reactid=".1.$=1$react-modal-overlay.$react-modal.3"><div data-reactid=".1.$=1$react-modal-overlay.$react-modal.3.0">
+        <ul class="facets_nav">
+                                <li>
+        <a href="/search/?genre_exact=Rock">
+            <small class="facet_count">3,889,810</small>
+            Rock
+            <span class="facet-bar" style="width: 21.7831224635%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Electronic">
+            <small class="facet_count">3,310,222</small>
+            Electronic
+            <span class="facet-bar" style="width: 18.5374018802%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Pop">
+            <small class="facet_count">2,108,484</small>
+            Pop
+            <span class="facet-bar" style="width: 11.8076114732%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Folk%2C+World%2C+%26+Country">
+            <small class="facet_count">1,166,890</small>
+            Folk, World, & Country
+            <span class="facet-bar" style="width: 6.53463993652%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Jazz">
+            <small class="facet_count">907,424</small>
+            Jazz
+            <span class="facet-bar" style="width: 5.08161789865%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Funk+%2F+Soul">
+            <small class="facet_count">842,459</small>
+            Funk / Soul
+            <span class="facet-bar" style="width: 4.71781078446%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Hip+Hop">
+            <small class="facet_count">598,295</small>
+            Hip Hop
+            <span class="facet-bar" style="width: 3.35048068011%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Classical">
+            <small class="facet_count">573,090</small>
+            Classical
+            <span class="facet-bar" style="width: 3.20933147188%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Latin">
+            <small class="facet_count">375,689</small>
+            Latin
+            <span class="facet-bar" style="width: 2.10387640918%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Reggae">
+            <small class="facet_count">335,081</small>
+            Reggae
+            <span class="facet-bar" style="width: 1.87646966258%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?genre_exact=Stage+%26+Screen">
+            <small class="facet_count">291,535</small>
+            Stage &amp; Screen
+            <span class="facet-bar" style="width: 1.63260997514%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Blues">
+            <small class="facet_count">241,157</small>
+            Blues
+            <span class="facet-bar" style="width: 1.3504907602%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Non-Music">
+            <small class="facet_count">193,301</small>
+            Non-Music
+            <span class="facet-bar" style="width: 1.08249486616%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Children%27s">
+            <small class="facet_count">82,455</small>
+            Children's
+            <span class="facet-bar" style="width: 0.461751952597%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?genre_exact=Brass+%26+Military">
+            <small class="facet_count">28,787</small>
+            Brass & Military
+            <span class="facet-bar" style="width: 0.161208579945%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+    </div></div>
